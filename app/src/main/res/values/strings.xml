@@ -24,8 +24,8 @@
 
     <!-- About of dialog -->
     <string name="about_title">About of</string>
-    <string name="about_text">Robots\nv1.00 (27 Mar 2015)\n
-        \n&#169; 2015 Miguel Garcia\nwww.floppysoftware.vacau.com
+    <string name="about_text">Robots\nv1.10 (05 Nov 2015)\n
+        \n&#169; 2015 Miguel Garcia\nwww.floppysoftware.es
         \nmiguelvisgarcia@gmail.com</string>
 
     <!-- Assorted buttons -->
@@ -37,4 +37,7 @@
 
     <!-- Other -->
     <string name="msg_not_implemented">Not implemented yet</string>
+    <string name="title_activity_splash">SplashActivity</string>
+
+    <string name="hello_world">Hello world!</string>
 </resources>

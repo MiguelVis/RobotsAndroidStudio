@@ -44,7 +44,7 @@ import java.util.Random;
  *
  * (c) 2015 Miguel I. Garcia Lopez / FloppySoftware.
  *
- * www.floppysoftware.vacau.com
+ * www.floppysoftware.es
  * floppysoftware@gmail.com
  */
 public class MainActivity extends ActionBarActivity {
